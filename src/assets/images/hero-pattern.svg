@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#101014"/>
+      <stop offset="100%" stop-color="#1c1c22"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="900" fill="url(#bg)"/>
+  <circle cx="190" cy="180" r="120" fill="#c62828" opacity="0.4"/>
+  <circle cx="730" cy="240" r="90" fill="#ff4d4f" opacity="0.18"/>
+  <circle cx="480" cy="620" r="190" fill="#ffffff" opacity="0.05"/>
+  <path d="M140 670h620" stroke="#ff4d4f" stroke-opacity="0.5" stroke-width="16" stroke-linecap="round"/>
+  <path d="M250 520l120-180 110 120 120-170" fill="none" stroke="#ffffff" stroke-opacity="0.18" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="450" y="820" fill="#ffffff" fill-opacity="0.9" font-family="Arial Black, Arial, sans-serif" font-size="92" text-anchor="middle">FITZONE</text>
+</svg>
