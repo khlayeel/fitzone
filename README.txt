@@ -53,3 +53,7 @@ npm run build
 ## Notes
 
 Les données sont stockées côté navigateur pour faciliter la démonstration et les tests.
+
+## Vidéo de démonstration
+
+Lien YouTube de la vidéo de l'application : https://youtu.be/SSkGUXhIBX0
